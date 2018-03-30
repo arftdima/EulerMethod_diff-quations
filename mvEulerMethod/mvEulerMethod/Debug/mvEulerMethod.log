@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dima\documents\visual studio 2017\projects\mveulermethod\mveulermethod\source.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  mvEulerMethod.vcxproj -> c:\users\dima\documents\visual studio 2017\Projects\mvEulerMethod\Debug\mvEulerMethod.exe
